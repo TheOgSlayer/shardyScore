@@ -1,0 +1,6 @@
+# Where the Shards number comes from.
+# Leave empty to use this plugin's own built-in shards (/shards give|take|set|check).
+# To read shards from another plugin, install PlaceholderAPI and put that plugin's
+# placeholder here, for example:
+#   shards-placeholder: "%shards_balance%"
+shards-placeholder: ""
